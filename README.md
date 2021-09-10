@@ -6,7 +6,6 @@ logic game in which the player must determine the hidden number in the least num
 
 there is some information about this game on wikipedia 
 
-⬇️
 https://en.wikipedia.org/wiki/Bulls_and_Cows
 
 # instructions
