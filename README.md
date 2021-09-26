@@ -2,7 +2,7 @@
 
 this is the `BULLS AND COWS` game.
 
-logic game in which the player must determine the hidden number in the least number of attempts
+logic game in which the player must determine the hidden number in the fewest number of attempts
 
 there is some information about this game on wikipedia 
 
