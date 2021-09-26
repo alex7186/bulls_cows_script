@@ -72,11 +72,3 @@ while number_of_attempts < 40 and not guessed:
     if guessed:
         print('congratulations. you guessed the number {} in {} attempts'.format(
             real_number, number_of_attempts))
-
-
-
-
-    
-
-
-
