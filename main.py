@@ -54,7 +54,7 @@ while number_of_attempts < 40 and not guessed:
 
     number_of_attempts += 1
     if not game_started:
-        print('\nthis is the bulls and cows game.\n\nlogic game in which the player must determine the hidden number in the least number of attempts\nhttps://en.wikipedia.org/wiki/Bulls_and_Cows\n')
+        print('\nthis is the bulls and cows game.\n\nlogic game in which the player must determine the hidden number in the fewest number of attempts\nhttps://en.wikipedia.org/wiki/Bulls_and_Cows\n')
         game_started = True
 
     print('attempt #{}'.format(number_of_attempts))
